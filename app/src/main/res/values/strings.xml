@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_name">Nama Dino</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_characteristic">Karakteristik</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_process">Lingkungan</string>
+    <string name="info_dino_food">Makanan</string>
+    <string name="info_dino_long">Panjang</string>
+    <string name="info_dino_weight">Berat</string>
+    <string name="info_dino_weakness">Kelemahan</string>
+
+    <string-array name="dinos_name">
+        <item>Tyrannosaurus rex</item>
+        <item>Brachiosaurus</item>
+        <item>Triceratops</item>
+        <item>Ankylosaurus</item>
+        <item>Parasaurolophus</item>
+        <item>Euoplocephalus</item>
+        <item>Pteranodon</item>
+        <item>Quetzalcoatlus</item>
+    </string-array>
+    <string-array name="dinos_icon">
+        <item>@drawable/trex</item>
+        <item>@drawable/brachios</item>
+        <item>@drawable/triceratops</item>
+        <item>@drawable/ankylosaurus</item>
+        <item>@drawable/parasaurolophus</item>
+        <item>@drawable/euoplocephalus</item>
+        <item>@drawable/pteranodon</item>
+        <item>@drawable/quetzalcoatlus</item>
+    </string-array>
+    <string-array name="dinos_description">
+ <item>adalah sebuah genus dinosaurus teropoda yang tergolong ke dalam klad Coelurosauria. Spesies Tyrannosaurus rex (sering dijuluki T. rex atau T-Rex; "rex" berarti "raja" dalam bahasa Latin) adalah salah satu teropoda besar yang paling dikenal oleh khalayak luas.</item>
+        <item>Brachiosaurus adalah genus dinosaurus sauropoda yang hidup di Amerika Utara selama Jura Akhir, sekitar 154 – 150 juta tahun yang lalu. Dinosaurus ini pertama kali dijelaskan oleh paleontolog Amerika bernama Elmer S.</item>
+        <item>Triceratops adalah genus dari dinosaurus ceratopsia chasmosaurinae yang hidup pada sub-kala Maastrichtium akhir pada kala Kapur Akhir, sekitar 68 hingga 66 juta tahun lalu pada wilayah yang sekarang merupakan Amerika Utara.</item>
+        <item>Ankylosaurus adalah salah satu jenis dinosaurus yang hidup pada periode kapur akhir sekitar 68 juta hingga 65 juta tahun yang lalu di Amerika Utara. Memiliki tubuh sepanjang 8 meter, tingginya sekitar 2 meter, dan beratnya mencapai setidaknya 4 ton</item>
+        <item>Parasaurolophus adalah dinosaurus dari famili Hadrosauridae yang hidup pada masa periode kapur akhir sekitar 76,5–73 juta tahun yang lalu. Ia memiliki jambul berbentuk tabung di belakang kepala nya, mungkin untuk berkomunikasi dengan sesamanya, dan mungkin untuk memamerkan pada betina ketika musim kawin.</item>
+        <item>Euplocephalus adalah dinosaurus ankylosauroid dengan panjang 6 meter dan berat sekitar 2 ton. Kepalanya memiliki tanduk dari tulang, paruh tak bergigi, gigi pipi mirip pasak dan otak yang kecil. Euplocephalus hidup pada masa yang berdampingan dengan Tyrannosaurus dan Deinonychus</item>
+        <item>Pteranodon adalah genus pterosaurus yang termasuk beberapa reptil terbang terbesar yang pernah diketahui, dengan rentang sayap melebihi 7 meter. Mereka hidup selama periode geologi Kapur di Amerika Utara yang sekarang dikenal dengan Kansas, Alabama, Nebraska, Wyoming, dan South Dakota.</item>
+        <item>Quetzalcoatlus adalah genus Pterosaurus dari Periode Kapur Akhir dari Amerika Utara.Lebar sayap yang terbesar sepanjang 12 meter. Nama genus dinamai setelah dewa ular Aztek, Quetzalcoatl. Spesies tipe dan satu-satunya spesies adalah Q. northropi.</item>
+    </string-array>
+    <string-array name="dinos_characteristic">
+        <item>Merupakan salah satu predator terbesar yang pernah hidup, Memiliki rahang yang kuat dengan gigi tajam yang cocok untuk memotong daging, Bertubuh besar dengan kepala besar dan lengan pendek.</item>
+        <item>Salah satu jenis sauropoda yang memiliki leher panjang dan tubuh besar.
+Diperkirakan memiliki panjang sekitar 85 kaki dan tinggi sekitar 30 kaki.
+Kaki depannya lebih panjang daripada kaki belakangnya, memberikan posisi tubuh yang miring ke atas.</item>
+        <item>Dikenal karena tanduknya yang besar di kepala dan bony frill (pelindung tulang) di belakang kepala.
+Diperkirakan memiliki panjang sekitar 9 meter dan tinggi sekitar 3 meter.
+Biasanya digambarkan sebagai herbivora bertubuh besar dengan empat kaki yang kokoh.</item>
+        <item>Dilengkapi dengan pelindung tulang dan tonjolan tulang yang membentuk club di ujung ekornya.
+Tubuhnya dilapisi oleh pelat-pelat tulang yang memberikan perlindungan ekstra.
+Biasanya digambarkan sebagai herbivora bertubuh besar dengan postur yang rendah.</item>
+        <item>Memiliki crests besar di atas kepala yang digunakan mungkin untuk peran dalam komunikasi atau pengaturan suhu tubuh.
+Diperkirakan memiliki panjang sekitar 10 meter dengan tubuh yang ramping.
+Biasanya digambarkan sebagai herbivora dengan ciri khas crests melengkung di atas kepalanya.</item>
+        <item>Dikenal karena pelindung tulang yang besar dan berduri di punggung dan ekornya.
+Ekornya dilengkapi dengan tonjolan tulang yang keras yang digunakan untuk mempertahankan diri terhadap predator.
+Biasanya digambarkan sebagai herbivora dengan tubuh yang rendah dan kokoh.</item>
+        <item>Salah satu jenis pterosaur yang memiliki sayap membran yang besar dan kepala yang panjang dengan rahang yang kurang lebih bersih dari gigi.
+Sayapnya bisa mencapai rentang lebih dari 25 kaki.
+Biasanya digambarkan sebagai pemangsa ikan yang terbang di atas laut.</item>
+        <item>Merupakan salah satu dari pterosaur terbesar yang pernah ditemukan, dengan rentang sayap bisa mencapai lebih dari 35 kaki.
+Kepalanya relatif kecil dibandingkan dengan tubuhnya yang besar.
+Diyakini bahwa mereka adalah pemangsa yang terbang di langit memburu mangsa kecil.</item>
+
+    </string-array>
+    <string-array name="dinos_habitat">
+        <item>Berasal dari Amerika Utara.
+Habitatnya mungkin meliputi dataran rendah, hutan, dan sungai yang subur.</item>
+        <item>Berasal dari Amerika Utara, Afrika, dan Eropa.
+Hidup di daerah dataran rendah dan dataran tinggi dengan vegetasi lebat.</item>
+        <item>Berasal dari Amerika Utara.
+Mungkin hidup di padang rumput, hutan-hutan, atau dataran rendah yang luas.</item>
+        <item>Berasal dari Amerika Utara.
+Habitatnya mungkin meliputi hutan-hutan dan dataran rendah dengan vegetasi yang subur.</item>
+        <item>Berasal dari Amerika Utara.
+Mungkin hidup di dataran rendah yang berawa-rawa atau di dekat sungai-sungai.</item>
+        <item>Berasal dari Amerika Utara.
+Mungkin mendiami daerah-daerah dengan vegetasi lebat seperti hutan dan padang rumput.</item>
+        <item>Pteranodon ditemukan di seluruh dunia, termasuk Amerika Utara, Eropa, dan Asia.
+Biasanya hidup di daerah pesisir laut atau daerah dengan akses ke air, di mana mereka dapat berburu ikan.</item>
+        <item>Berasal dari Amerika Utara.
+Mungkin hidup di dataran terbuka atau daerah pantai yang luas di dekat air.</item>
+
+    </string-array>
+    <string-array name="dino_process">
+        <item>Lingkungan yang mungkin meliputi dataran rendah, hutan-hutan, atau daerah sungai yang subur. Mereka bisa berada di lingkungan yang beragam, dari dataran rendah hingga wilayah yang lebih berbukit.</item>
+        <item>Dinosaurus ini mungkin menghuni daerah-daerah yang luas dengan vegetasi lebat seperti hutan-hutan dan padang rumput terbuka. Mereka mungkin juga terdapat di dataran tinggi atau perbukitan yang kaya akan tanaman.</item>
+        <item>Triceratops mungkin hidup di padang rumput terbuka, dataran rendah, atau bahkan daerah berawa-rawa yang subur. Mereka bisa ditemukan di berbagai jenis habitat, tergantung pada ketersediaan makanan dan air.</item>
+        <item>Dinosaurus ini mungkin menghuni daerah hutan dan dataran rendah yang lebat dengan vegetasi. Mereka mungkin juga berada di daerah dataran rendah yang berawa-rawa atau dekat dengan sungai.</item>
+        <item>Parasaurolophus mungkin hidup di daerah berawa-rawa atau dekat dengan sungai, di mana mereka dapat memanfaatkan sumber daya makanan yang melimpah. Mereka juga mungkin ditemukan di hutan-hutan dataran rendah.</item>
+        <item>Dinosaurus ini mungkin terdapat di daerah-daerah yang padat dengan vegetasi, seperti hutan-hutan atau padang rumput yang subur. Mereka bisa hidup di lingkungan yang beragam, asalkan ada cukup sumber daya makanan.</item>
+        <item>Pteranodon biasanya ditemukan di dekat perairan, seperti pantai laut atau sungai-sungai besar. Mereka mungkin menghuni daerah rawa atau delta sungai di mana ikan melimpah.</item>
+        <item>Quetzalcoatlus mungkin menghuni daerah-daerah terbuka yang luas seperti padang rumput atau daerah pantai. Mereka mungkin juga berada di daerah rawa atau dataran rendah dekat dengan air.</item>
+    </string-array>
+
+    <string-array name="dinos_food">
+        <item>Tyrannosaurus rex adalah predator karnivora, yang kemungkinan besar memangsa hewan-hewan seperti triceratops, hadrosaurus, dan dinosaurus herbivora besar lainnya.</item>
+        <item>Brachiosaurus adalah herbivora yang mungkin mengonsumsi dedaunan, tumbuhan berkayu, dan vegetasi tinggi seperti pohon-pohon rendah.</item>
+        <item>Triceratops adalah herbivora yang mungkin memakan berbagai jenis tanaman, termasuk dedaunan, semak-semak, dan tanaman <rendah></rendah></item>
+        <item>Ankylosaurus adalah herbivora yang mungkin memakan dedaunan, tanaman berkayu, dan vegetasi rendah. Mereka mungkin juga memakan buah-buahan atau biji-bijian.</item>
+        <item>Parasaurolophus adalah herbivora yang mungkin memakan dedaunan, tunas pohon, semak-semak, dan tanaman air.</item>
+        <item>Euoplocephalus adalah herbivora yang mungkin memakan dedaunan, tunas pohon, semak-semak, dan tanaman rendah. Mereka mungkin juga mengonsumsi buah-buahan atau biji-bijian.</item>
+        <item>Pteranodon adalah pemangsa ikan, yang memperoleh makanan utamanya dari ikan dan hewan-hewan kecil lainnya yang ditemukan di perairan sekitarnya.</item>
+        <item>Quetzalcoatlus adalah pemangsa yang mungkin memakan ikan, hewan-hewan kecil, dan mungkin juga bangkai. Mereka kemungkinan memburu mangsa di darat atau di dekat air.</item>
+    </string-array>
+    <string-array name="dinos_long">
+        <item>Panjang: Sekitar 12 hingga 13 meter.</item>
+        <item>Panjang: Sekitar 22 hingga 26 meter.</item>
+        <item>Panjang: Sekitar 8 hingga 9 meter.</item>
+        <item>Panjang: Sekitar 6 hingga 8 meter.</item>
+        <item>Panjang: Sekitar 9 hingga 10 meter.</item>
+        <item>Panjang: Sekitar 6 hingga 7 meter.</item>
+        <item>Panjang: Sekitar 5 hingga 7 meter (berdasarkan rentang sayapnya).</item>
+        <item>Panjang: Sekitar 10 hingga 11 meter (berdasarkan rentang sayapnya).</item>
+    </string-array>
+    <string-array name="dinos_weakness">
+        <item>Lengan pendek yang tidak begitu efektif untuk menangkap atau memegang mangsa.</item>
+        <item>Ukuran tubuh yang besar membuatnya rentan terhadap kekurangan makanan dan membutuhkan banyak energi untuk mempertahankan tubuhnya.</item>
+        <item>Pelindung tulang dan tanduknya mungkin tidak efektif melawan predator yang sangat besar atau kuat.</item>
+        <item>Mobilitas yang terbatas karena berat badannya yang besar dan postur yang rendah mungkin membuatnya sulit melarikan diri dari predator.</item>
+        <item>Kepala yang panjang dengan crests besar mungkin membuatnya rentan terhadap cedera saat bergerak di hutan-hutan atau daerah dengan vegetasi rapat.</item>
+        <item>Meskipun dilengkapi dengan pelindung tulang yang kuat, bagian perut dan sisi tubuhnya mungkin relatif rentan terhadap serangan predator.</item>
+        <item>Rentan terhadap persaingan dengan spesies lain dan perubahan lingkungan yang mempengaruhi ketersediaan mangsa di perairan.</item>
+        <item>Rentan terhadap perubahan lingkungan yang mempengaruhi ketersediaan mangsa dan tempat bertelurnya yang mungkin sulit diakses oleh predator.</item>
+    </string-array>
+    <string-array name="dinos_weight">
+        <item>Berat: Sekitar 5 hingga 8 ton.</item>
+        <item>Berat: Sekitar 30 hingga 60 ton.</item>
+        <item>Berat: Sekitar 6 hingga 12 ton.</item>
+        <item>Berat: Sekitar 4 hingga 8 ton.</item>
+        <item>Berat: Sekitar 2 hingga 4 ton.</item>
+        <item>Berat: Sekitar 2 hingga 4 ton.</item>
+        <item>Berat: Sulit untuk memberikan perkiraan berat yang akurat karena Pteranodon adalah reptil terbang. Namun, mereka mungkin memiliki berat sekitar beberapa ratus kilogram hingga satu ton.</item>
+        <item>Berat: Seperti halnya Pteranodon, sulit memberikan perkiraan berat yang akurat karena variabilitas ukuran tubuh. Namun, bisa jadi memiliki berat beberapa ratus kilogram hingga beberapa ton.</item>
+    </string-array>
+
+</resources>
